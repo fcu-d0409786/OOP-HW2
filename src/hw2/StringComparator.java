@@ -14,7 +14,7 @@ public class StringComparator {
 			num2=num2.toLowerCase();
 			if(num.equals(num2))
 			{
-				System.out.println("The two strings are the same");
+				System.out.println("The two strings are the same.");
 				flag=1;
 			}
 			else 
